@@ -107,23 +107,6 @@ The residual distribution exhibits near-perfect zero-centered normality, confirm
 
 ---
 
-## Project Structure
+## License
 
-```text
-time-series-forecasting/
-├── assets/
-│   ├── banner.png
-│   ├── energy-trend.png
-│   ├── feature-importance.png
-│   ├── forecast-vs-actual.png
-│   ├── prediction-residuals.png
-│   └── seasonality-analysis.png
-├── dataset/
-│   └── energy_consumption.csv
-├── models/
-│   └── xgboost_energy_model.joblib
-├── time_series_forecasting.ipynb
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
